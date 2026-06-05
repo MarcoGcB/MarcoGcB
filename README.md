@@ -33,6 +33,7 @@ Aquí hay un vistazo a algunas de las cosas que he estado construyendo:
 | Proyecto | Descripción | Tecnologías | Demo |
 | :--- | :--- | :--- | :---: |
 | **✨ INVENFLOW** | Un sistema de Gestión de Inventario con Exportaciones CSV, PDF). | `laravel` | [Ver Código](https://github.com/MarcoGcB/Sistema-de-Gestion-de-Inventario.git) |
+| **💖 Love Memories App** | Aplicación web romántica con uso de una **API moderna (Supabase)** en un proyecto web sencillo, integrando almacenamiento, sincronización en tiempo real y visualización interactiva.). | `HTML`, `JAVASCRIPT`, `SUPABASE`, `CSS`,`Three.js` | [Ver Código](https://github.com/MarcoGcB/2-Meses.git) |
 
 ---
 
